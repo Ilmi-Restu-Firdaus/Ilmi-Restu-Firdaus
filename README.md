@@ -4,15 +4,11 @@ I’m an **Independent Fullstack Developer** who enjoys creating projects and ex
 I work with **Java, PHP, JavaScript, Kotlin, MySQL, Firebase, Bootstrap, Laravel, and Docker**, and I’m also exploring **game development with Godot**.  
 I’m passionate about building useful applications, experimenting with modern tools, and continuously improving my skills.
 
----
-
-## 🌟 About Me
 * 🔭 Currently focusing on **building personal projects** and joining **team collaborations**
 * 🌱 Exploring **Fullstack Web Development** and gaining more experience with **cloud services**
 * 💬 Open for discussions about **Web Development, Mobile Apps, or Back-End Development**
 * ⚡ Fun fact: I enjoy tinkering with **Android Studio** and love spending time coding in **VS Code**
 
----
 ## 🛠️ Tech Stack
 
 <p align="left">  
@@ -27,8 +23,6 @@ I’m passionate about building useful applications, experimenting with modern t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="30" height="30"/>  
 </p>  
 
----
-
 ## ⚙️ Tools
 
 <p align="left">  
@@ -40,8 +34,6 @@ I’m passionate about building useful applications, experimenting with modern t
   <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="laragon" width="30" height="30"/>  
 </p>  
 
----
-
 ## 📊 GitHub Analytics  
 <p align="center">
 <a href="https://https://github.com/Ilmi-Restu-Firdaus">
@@ -49,8 +41,6 @@ I’m passionate about building useful applications, experimenting with modern t
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ilmi-Restu-Firdaus&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
----
 
 ## 🔗 Follow Me
 
