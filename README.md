@@ -44,7 +44,6 @@ I’m passionate about building useful applications, experimenting with modern t
 
 
 ## 📊 GitHub Analytics  
-## 📊 GitHub Analytics  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ilmi-Restu-Firdaus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
