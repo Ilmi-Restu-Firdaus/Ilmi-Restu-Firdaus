@@ -49,3 +49,11 @@ I’m passionate about building useful applications, experimenting with modern t
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ilmi-Restu-Firdaus&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+--
+## 🔗 Follow Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilmi-restu-firdaus-563836317/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilmi_rf/?hl=id)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@miraeff)
+
