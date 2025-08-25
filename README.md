@@ -50,7 +50,8 @@ I’m passionate about building useful applications, experimenting with modern t
 </a>
 </p>
 
---
+---
+
 ## 🔗 Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilmi-restu-firdaus-563836317/)
